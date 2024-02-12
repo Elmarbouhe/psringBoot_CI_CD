@@ -1,0 +1,70 @@
+<div class="container mt-2">
+
+  <ng-container *ngIf="customers | async as customers; else loadingOrError">
+    <div class="card text-center text-uppercase">
+      <div class="card-header">Customers List</div>
+      <div class="card-body">
+        <div *ngIf="searchFormGroup">
+          <form [formGroup]="searchFormGroup" (ngSubmit)="handleSearch()">
+            <div class="row">
+                <div class="input-group mb-3">
+                  <input type="text" class="form-control" placeholder="Search by name" formControlName="name">
+                  <button class="btn btn-outline-secondary" type="submit">Search <i class="bi bi-search"></i></button>
+                </div>
+                <div class="input-group mb-3">
+                  <input type="text" class="form-control" placeholder="Search by email" formControlName="email">
+                  <button class="btn btn-outline-secondary" type="submit">Search <i class="bi bi-search"></i></button>
+                </div>
+            </div>
+          </form>
+        </div>
+        <table class="table table-hover">
+          <thead>
+            <tr>
+              <th>ID</th><th>Name</th><th>Email</th> <th>delete</th> <th>Account</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let customer of customers">
+              <td>{{customer.id}}</td>
+              <td>{{customer.name}}</td>
+              <td>{{customer.email}}</td>
+              <td>
+              <button class="btn btn-danger" (click)="handleDelete(customer)">
+                Delete
+              </button>
+              </td>
+              <td>
+                <button class="btn btn-primary" (click)="handleCustomerAccount(customer)">
+                  Account
+                </button>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </ng-container>
+
+  <ng-template #loadingOrError>
+    <div class="text-center ">
+      <ng-container *ngIf="errorMessage; else loading">
+        <div class="alert alert-danger" role="alert">
+          <strong>Error:</strong> {{ errorMessage }}
+        </div>
+      </ng-container>
+
+      <ng-template #loading>
+        <div class="position-absolute top-50 start-50 translate-middle">
+          <div class="spinner-border text-primary" role="status">
+            <span class="visually-hidden">Loading...</span>
+          </div>
+          <div>
+            <strong>Loading...</strong>
+          </div>
+        </div>
+      </ng-template>
+
+    </div>
+  </ng-template>
+</div>

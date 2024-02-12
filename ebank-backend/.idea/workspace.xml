@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31d57d7c-5116-4a2a-8561-59f20dd8040b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1707497224" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1707493627" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\php-8.2.7\php.exe" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2Y7wDCmMPY37cqw4mTOmXJQanlV" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yahya/Desktop/s9/SamiriProject/ebank-backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ticseinfo3.samiri.ebankbackend.exeptions" />
+      <recent name="ticseinfo3.samiri.ebankbackend.services" />
+      <recent name="ticseinfo3.samiri.ebankbackend.enums" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="ticseinfo3.samiri.ebankbackend.services" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ticseinfo3.samiri.ebankbackend.dto" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EbankBackendApplication">
+    <configuration name="rest-api | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" requestIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api | #4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" index="4" requestIdentifier="#4" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api | #5" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" index="5" requestIdentifier="#5" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api | #6" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" index="6" requestIdentifier="#6" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="EbankBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ebank-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ticseinfo3.samiri.ebankbackend.EbankBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EbankBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="ebank-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ticseinfo3.samiri.ebankbackend.EbankBackendApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.rest-api | #1" />
+      <item itemvalue="HTTP Request.rest-api | #2" />
+      <item itemvalue="HTTP Request.rest-api | #4" />
+      <item itemvalue="HTTP Request.rest-api | #5" />
+      <item itemvalue="HTTP Request.rest-api | #6" />
+      <item itemvalue="Spring Boot.EbankBackendApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.rest-api | #5" />
+        <item itemvalue="HTTP Request.rest-api | #2" />
+        <item itemvalue="HTTP Request.rest-api | #1" />
+        <item itemvalue="HTTP Request.rest-api | #6" />
+        <item itemvalue="HTTP Request.rest-api | #4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31d57d7c-5116-4a2a-8561-59f20dd8040b" name="Changes" comment="" />
+      <created>1699889803986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699889803986</updated>
+      <workItem from="1699889805040" duration="4137000" />
+      <workItem from="1699900660219" duration="3030000" />
+      <workItem from="1699922963774" duration="808000" />
+      <workItem from="1699960554435" duration="4714000" />
+      <workItem from="1699975690793" duration="1621000" />
+      <workItem from="1700058142368" duration="215000" />
+      <workItem from="1700146049821" duration="5363000" />
+      <workItem from="1700168945029" duration="13986000" />
+      <workItem from="1700320737616" duration="1276000" />
+      <workItem from="1700394202486" duration="601000" />
+      <workItem from="1700394993080" duration="5462000" />
+      <workItem from="1700417155735" duration="261000" />
+      <workItem from="1700417600796" duration="71000" />
+      <workItem from="1700570401034" duration="144000" />
+      <workItem from="1700570617058" duration="879000" />
+      <workItem from="1700590532630" duration="656000" />
+      <workItem from="1700763066759" duration="786000" />
+      <workItem from="1700921072843" duration="713000" />
+      <workItem from="1700928395990" duration="8080000" />
+      <workItem from="1701006748192" duration="912000" />
+      <workItem from="1701438370624" duration="10227000" />
+      <workItem from="1701520797574" duration="7047000" />
+      <workItem from="1702235935921" duration="1210000" />
+      <workItem from="1702248520914" duration="407000" />
+      <workItem from="1702306937415" duration="20541000" />
+      <workItem from="1702383190476" duration="689000" />
+      <workItem from="1702385373732" duration="729000" />
+      <workItem from="1702392768218" duration="3694000" />
+      <workItem from="1702420239734" duration="1395000" />
+      <workItem from="1702429683140" duration="1355000" />
+      <workItem from="1702476447100" duration="417000" />
+      <workItem from="1702649976386" duration="1931000" />
+      <workItem from="1702654728291" duration="862000" />
+      <workItem from="1702747559450" duration="5660000" />
+      <workItem from="1702814429441" duration="1331000" />
+      <workItem from="1702831140335" duration="3002000" />
+      <workItem from="1703257516960" duration="1743000" />
+      <workItem from="1703379074796" duration="4504000" />
+      <workItem from="1703468335534" duration="1668000" />
+      <workItem from="1703528289377" duration="709000" />
+      <workItem from="1703594610818" duration="1441000" />
+      <workItem from="1703944890072" duration="1725000" />
+      <workItem from="1704198753305" duration="3766000" />
+      <workItem from="1704203373175" duration="1669000" />
+      <workItem from="1704270292311" duration="404000" />
+      <workItem from="1704638544062" duration="5159000" />
+      <workItem from="1704647501380" duration="716000" />
+      <workItem from="1704725653704" duration="2833000" />
+      <workItem from="1704830636049" duration="1949000" />
+      <workItem from="1704894414380" duration="38000" />
+      <workItem from="1705893524604" duration="655000" />
+      <workItem from="1705931462561" duration="1272000" />
+      <workItem from="1706217432815" duration="2428000" />
+      <workItem from="1706226249304" duration="3740000" />
+      <workItem from="1706289248163" duration="1664000" />
+      <workItem from="1706290938380" duration="42000" />
+      <workItem from="1706291003872" duration="18031000" />
+      <workItem from="1706313252860" duration="2000" />
+      <workItem from="1706392707812" duration="694000" />
+      <workItem from="1706467212837" duration="15034000" />
+      <workItem from="1706522616444" duration="1365000" />
+      <workItem from="1706982401472" duration="1006000" />
+      <workItem from="1707245744768" duration="26000" />
+      <workItem from="1707491583850" duration="1518000" />
+      <workItem from="1707494610718" duration="2166000" />
+      <workItem from="1707496811754" duration="166000" />
+      <workItem from="1707497076437" duration="162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.springframework.beans.factory.BeanCreationException" package="org.springframework.beans.factory" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

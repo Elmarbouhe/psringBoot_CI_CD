@@ -1,0 +1,79 @@
+{
+  "authorities": [
+    {
+      "authority": "SCOPE_ADMIN"
+    },
+    {
+      "authority": "SCOPE_USER"
+    }
+  ],
+  "details": {
+    "remoteAddress": "127.0.0.1",
+    "sessionId": null
+  },
+  "authenticated": true,
+  "principal": {
+    "tokenValue": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ1c2VyIiwiZXhwIjoxNzA2MzA2NjU1LCJpYXQiOjE3MDYzMDYwNTUsInNjb3BlIjoiQURNSU4gVVNFUiJ9.f8VRlqjKnkSCUUlZnnEN_XXLP8WxHhNrmj3_z32xwzPCnBZur2IzcVx-bGzwW1R_bc4tL12a4Q0jn2xz_w17Hg",
+    "issuedAt": "2024-01-26T21:54:15Z",
+    "expiresAt": "2024-01-26T22:04:15Z",
+    "headers": {
+      "alg": "HS512"
+    },
+    "claims": {
+      "sub": "user",
+      "exp": "2024-01-26T22:04:15Z",
+      "iat": "2024-01-26T21:54:15Z",
+      "scope": "ADMIN USER"
+    },
+    "id": null,
+    "notBefore": null,
+    "subject": "user",
+    "audience": null,
+    "issuer": null
+  },
+  "credentials": {
+    "tokenValue": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ1c2VyIiwiZXhwIjoxNzA2MzA2NjU1LCJpYXQiOjE3MDYzMDYwNTUsInNjb3BlIjoiQURNSU4gVVNFUiJ9.f8VRlqjKnkSCUUlZnnEN_XXLP8WxHhNrmj3_z32xwzPCnBZur2IzcVx-bGzwW1R_bc4tL12a4Q0jn2xz_w17Hg",
+    "issuedAt": "2024-01-26T21:54:15Z",
+    "expiresAt": "2024-01-26T22:04:15Z",
+    "headers": {
+      "alg": "HS512"
+    },
+    "claims": {
+      "sub": "user",
+      "exp": "2024-01-26T22:04:15Z",
+      "iat": "2024-01-26T21:54:15Z",
+      "scope": "ADMIN USER"
+    },
+    "id": null,
+    "notBefore": null,
+    "subject": "user",
+    "audience": null,
+    "issuer": null
+  },
+  "token": {
+    "tokenValue": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ1c2VyIiwiZXhwIjoxNzA2MzA2NjU1LCJpYXQiOjE3MDYzMDYwNTUsInNjb3BlIjoiQURNSU4gVVNFUiJ9.f8VRlqjKnkSCUUlZnnEN_XXLP8WxHhNrmj3_z32xwzPCnBZur2IzcVx-bGzwW1R_bc4tL12a4Q0jn2xz_w17Hg",
+    "issuedAt": "2024-01-26T21:54:15Z",
+    "expiresAt": "2024-01-26T22:04:15Z",
+    "headers": {
+      "alg": "HS512"
+    },
+    "claims": {
+      "sub": "user",
+      "exp": "2024-01-26T22:04:15Z",
+      "iat": "2024-01-26T21:54:15Z",
+      "scope": "ADMIN USER"
+    },
+    "id": null,
+    "notBefore": null,
+    "subject": "user",
+    "audience": null,
+    "issuer": null
+  },
+  "name": "user",
+  "tokenAttributes": {
+    "sub": "user",
+    "exp": "2024-01-26T22:04:15Z",
+    "iat": "2024-01-26T21:54:15Z",
+    "scope": "ADMIN USER"
+  }
+}

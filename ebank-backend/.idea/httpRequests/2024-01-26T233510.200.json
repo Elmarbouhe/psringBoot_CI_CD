@@ -1,0 +1,76 @@
+{
+  "authorities": [
+    {
+      "authority": "SCOPE_USER"
+    }
+  ],
+  "details": {
+    "remoteAddress": "127.0.0.1",
+    "sessionId": null
+  },
+  "authenticated": true,
+  "principal": {
+    "tokenValue": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ1c2VyIiwiZXhwIjoxNzA2MzA4OTA2LCJpYXQiOjE3MDYzMDgzMDYsInNjb3BlIjoiVVNFUiJ9.Psx09facZNrmmWhQYBLL3GVzAQ7UQMqc-L-Nmtq07LTwMX4CuVj4DszRobWduPHHEY2PURK9xiDfaJqmhqQ62Q",
+    "issuedAt": "2024-01-26T22:31:46Z",
+    "expiresAt": "2024-01-26T22:41:46Z",
+    "headers": {
+      "alg": "HS512"
+    },
+    "claims": {
+      "sub": "user",
+      "exp": "2024-01-26T22:41:46Z",
+      "iat": "2024-01-26T22:31:46Z",
+      "scope": "USER"
+    },
+    "id": null,
+    "audience": null,
+    "notBefore": null,
+    "subject": "user",
+    "issuer": null
+  },
+  "credentials": {
+    "tokenValue": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ1c2VyIiwiZXhwIjoxNzA2MzA4OTA2LCJpYXQiOjE3MDYzMDgzMDYsInNjb3BlIjoiVVNFUiJ9.Psx09facZNrmmWhQYBLL3GVzAQ7UQMqc-L-Nmtq07LTwMX4CuVj4DszRobWduPHHEY2PURK9xiDfaJqmhqQ62Q",
+    "issuedAt": "2024-01-26T22:31:46Z",
+    "expiresAt": "2024-01-26T22:41:46Z",
+    "headers": {
+      "alg": "HS512"
+    },
+    "claims": {
+      "sub": "user",
+      "exp": "2024-01-26T22:41:46Z",
+      "iat": "2024-01-26T22:31:46Z",
+      "scope": "USER"
+    },
+    "id": null,
+    "audience": null,
+    "notBefore": null,
+    "subject": "user",
+    "issuer": null
+  },
+  "token": {
+    "tokenValue": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJ1c2VyIiwiZXhwIjoxNzA2MzA4OTA2LCJpYXQiOjE3MDYzMDgzMDYsInNjb3BlIjoiVVNFUiJ9.Psx09facZNrmmWhQYBLL3GVzAQ7UQMqc-L-Nmtq07LTwMX4CuVj4DszRobWduPHHEY2PURK9xiDfaJqmhqQ62Q",
+    "issuedAt": "2024-01-26T22:31:46Z",
+    "expiresAt": "2024-01-26T22:41:46Z",
+    "headers": {
+      "alg": "HS512"
+    },
+    "claims": {
+      "sub": "user",
+      "exp": "2024-01-26T22:41:46Z",
+      "iat": "2024-01-26T22:31:46Z",
+      "scope": "USER"
+    },
+    "id": null,
+    "audience": null,
+    "notBefore": null,
+    "subject": "user",
+    "issuer": null
+  },
+  "name": "user",
+  "tokenAttributes": {
+    "sub": "user",
+    "exp": "2024-01-26T22:41:46Z",
+    "iat": "2024-01-26T22:31:46Z",
+    "scope": "USER"
+  }
+}
